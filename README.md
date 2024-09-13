@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there, I'm Hospin 👋
+- a front-end developer with a strong interest in web technologies and UI/UX design. My passion is to create intuitive, fast and responsive web applications. I also have ambitions in the field of game development.
 
-<!--
-**hospingg/hospingg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 How to contact me
 
-Here are some ideas to get you started:
+- Email address: hopsingg@gmail.com
+[![Static Badge](https://img.shields.io/badge/React?logo=react)](https://linkedin.com/hospingg)
+- LinkedIn: https://linkedin.com/hospingg
+- GitHub: https://github.com/hospingg
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My skills
+
+- **Programming languages:** JavaScript (ES6+), TypeScript
+- **Frameworks and libraries:** React, Redux, Next.js, Vue.js
+- **Technologies:** HTML5, CSS3, SCSS, TailwindCSS
+- **Tools:** Git, Webpack, npm, Yarn, Vite
+- **Design tools:** Figma, Adobe Зрщещірщз
+- **Testing:** Jest, Cypress
+- **Performance Optimization:** Lighthouse, Core Web Vitals
+
+## 🌱 What I'm studying now
+
+- I will deepen my knowledge in **React Native** for the development of mobile applications.
+- I am studying **WebGL** and **Three.js** to improve my skills in creating 3D animation and interactive content.
+
+## 🎮 Game development
+
+various web development, have ambitions in **game development**. I'm learning Unity and Unreal Engine to bring my ideas to the world of games.
+
